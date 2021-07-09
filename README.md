@@ -1,3 +1,3 @@
 # passenger-count
 Demo
-https://Rahul2289.git.io/passenger-count
+https://Rahul2289.github.io/passenger-count
