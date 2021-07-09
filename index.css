@@ -1,0 +1,19 @@
+
+.btn{
+    padding: 1%;
+    background-color: lime;
+    border-radius: 10%;
+}
+#inc-btn{
+    background-color: red;
+}
+div{
+    text-align: center;
+    height: 80%;
+    width: 50%;
+    border:solid red;
+    margin-left: 20%;
+    margin-top: 10%;
+    padding: 2%;
+    background-color: yellow;
+}
