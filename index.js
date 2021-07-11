@@ -7,6 +7,11 @@ function incbtn()  {
    countEl.innerHTML=count
 }
 function savebtn(){
+  
   let saveEle = count + " - "
+ 
   saveEl.innerHTML += saveEle
+  countEl.innerHTML=0
+ count=0
+ 
 }
